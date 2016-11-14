@@ -1,0 +1,13 @@
+int main(){
+
+int n1,n2,soma;
+
+cout << " Digite os odis numeros:";
+cin >> n1 >> n2;
+
+soma = n1 + n2;
+
+cout << " A soma destes numeros eh " << soma;
+
+returno 0;
+}
